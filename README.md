@@ -1,6 +1,6 @@
 
 # recall
-- 🦍 Hi there, i'm one of hackers, also is an ios developer.</br>
+- 🦍 Hi there, i'm an ios developer.</br>
 - 🌱 Currently located in Hangzhou.</br>
 - 💬 Discord lothric#3947.</br>
 
